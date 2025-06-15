@@ -1,0 +1,26 @@
+# Node dependencies
+node_modules/
+
+# Build output
+.next/
+
+# Environment variables
+.env
+
+# SQLite database
+users.db
+
+# OS files
+.DS_Store
+
+# Misc
+cookie.txt
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
